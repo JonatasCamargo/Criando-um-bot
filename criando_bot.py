@@ -21,3 +21,5 @@ pyautogui.write("soueubb1234!")
 
 #clicar em fazer login
 pyautogui.click(x=889, y=417)
+
+#lembrando, que os pixels vão de acordo com o tamanho de sua tela
